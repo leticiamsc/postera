@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-02-17_1053",
+    "name": "postera",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -67,7 +67,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/neon-logo_1.png",
-    "mbrsiteDomain": "uxzw9uyddw",
+    "mbrsiteDomain": "vh8rpqkpjw",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -78,7 +78,8 @@
     "witsec-white-label": true,
     "uniqCompNum": 57,
     "versionPublish": "5.6.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
