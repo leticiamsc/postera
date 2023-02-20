@@ -695,11 +695,10 @@ a {
     width: 30%;
   }
 }
-.cid-twqsNmj05Q {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-twqxPZVE6F {
+  padding-top: 0rem;
+  padding-bottom: 2rem;
   background-color: #38102b;
-  overflow: hidden;
 }
 .cid-twqoQXspfz {
   background-image: url("../../../assets/images/onm-home-bg-posters-desk4.png");
@@ -865,77 +864,4 @@ a {
 .cid-tw9udp0h0U .cost,
 .cid-tw9udp0h0U .mbr-section-btn {
   color: #fafafa;
-}
-.cid-twqadhkWkp {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  position: relative;
-  background: linear-gradient(0deg, #40b0bf, #38102b);
-}
-.cid-twqadhkWkp p {
-  color: #767676;
-}
-.cid-twqadhkWkp .fondcolor {
-  margin-top: 0px;
-  border-radius: 40px;
-  border: 0px solid #38102b;
-  background: #232323;
-}
-.cid-twqadhkWkp .card {
-  border-radius: 40px;
-  margin-bottom: 9px;
-}
-.cid-twqadhkWkp .card .card-header {
-  border-radius: 40px;
-  border: 0px;
-  padding: 0;
-}
-.cid-twqadhkWkp .card .card-header a.panel-title {
-  margin-bottom: 0;
-  margin-top: -1px;
-  font-weight: 500;
-  font-style: normal;
-  display: block;
-  text-decoration: none !important;
-  line-height: normal;
-}
-.cid-twqadhkWkp .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-twqadhkWkp .card .card-header a.panel-title h4 {
-  padding: 0.5rem 2rem;
-  border: 0px solid #38102b;
-  margin-bottom: 0;
-  border-radius: 40px;
-  background-color: #fafafa;
-  display: -webkit-flex;
-}
-.cid-twqadhkWkp .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
-  font-size: 25px;
-}
-.cid-twqadhkWkp H2 {
-  color: #ffffff;
-}
-.cid-twqadhkWkp .panel-text {
-  color: #ffffff;
-}
-.cid-twqadhkWkp .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-twqadhkWkp .mbr-figure {
-  padding-bottom: 2rem;
-  padding-top: 2rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-@media (min-width: 992px) {
-  .cid-twqadhkWkp .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-twqadhkWkp .mbr-figure {
-    padding-bottom: 1rem;
-  }
 }
