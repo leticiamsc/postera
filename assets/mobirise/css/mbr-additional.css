@@ -683,8 +683,8 @@ a {
   transition: color 0.6s;
 }
 .cid-twpUTujYo2 {
-  padding-top: 6rem;
-  padding-bottom: 5rem;
+  padding-top: 9rem;
+  padding-bottom: 9rem;
   background-color: #40b0bf;
 }
 .cid-twpUTujYo2 .image-wrap img {
@@ -696,11 +696,6 @@ a {
     margin: auto;
     width: 30%;
   }
-}
-.cid-twqbbci5fH {
-  padding-top: 60px;
-  padding-bottom: 75px;
-  background: linear-gradient(0deg, #38102b, #40b0bf);
 }
 .cid-tw8E1KkTmG {
   padding-top: 4rem;
@@ -960,6 +955,7 @@ a {
 }
 .cid-tw8E1KkTmG H3 {
   color: #40b0bf;
+  text-align: center;
 }
 .cid-tw8CHgXDZg {
   padding-top: 2rem;
